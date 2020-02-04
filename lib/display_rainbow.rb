@@ -2,13 +2,13 @@ require_relative './lib/display_rainbow.rb'
 # Write your #display_rainbow method here
  
 
-# def display_rainbow(colors) 
-#   colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet' ]
-#   puts "R: #{colors[1]}, O: #{colors[2]}, Y: #{colors[3]},G: #{colors[4]}, B: #{colors[5]}, I: #{colors[6]}, V: #{colors[7]}"
+def display_rainbow(colors) 
+  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet' ]
+  puts "R: #{colors[1]}, O: #{colors[2]}, Y: #{colors[3]},G: #{colors[4]}, B: #{colors[5]}, I: #{colors[6]}, V: #{colors[7]}"
   
-# end
+end
 
-# end
+end
 def display_rainbow(colors)
   colors = ["red","orange","yello","green","blue","indigo","violet" ]
   puts " #{colors[0]}"
