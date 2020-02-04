@@ -9,9 +9,9 @@ def display_rainbow(colors)
 end
 
 end
-def display_rainbow(colors)
-  colors = ["red","orange","yello","green","blue","indigo","violet" ]
-  puts " #{colors[0]}"
-end
-display_rainbow(colors)
+# def display_rainbow(colors)
+#   colors = ["red","orange","yello","green","blue","indigo","violet" ]
+#   puts " #{colors[0]}"
+# end
+# display_rainbow(colors)
 
