@@ -7,5 +7,4 @@ def display_rainbow (colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indi
 end
 
 
-# display_rainbow(colors)
 
