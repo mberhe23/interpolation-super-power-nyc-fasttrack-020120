@@ -1,4 +1,3 @@
-require_relative './lib/display_rainbow.rb'
 # Write your #display_rainbow method here
  
 
